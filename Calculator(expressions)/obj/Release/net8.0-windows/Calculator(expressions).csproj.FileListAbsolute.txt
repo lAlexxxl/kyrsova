@@ -1,0 +1,7 @@
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\obj\Release\net8.0-windows\Calculator_expressions_.Calculator.resources
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\obj\Release\net8.0-windows\Calculator_expressions_.Properties.Resources.resources
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\obj\Release\net8.0-windows\Calculator(expressions).csproj.GenerateResource.cache
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\obj\Release\net8.0-windows\Calculator(expressions).GeneratedMSBuildEditorConfig.editorconfig
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\obj\Release\net8.0-windows\Calculator(expressions).AssemblyInfoInputs.cache
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\obj\Release\net8.0-windows\Calculator(expressions).AssemblyInfo.cs
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\obj\Release\net8.0-windows\Calculator(expressions).csproj.CoreCompileInputs.cache

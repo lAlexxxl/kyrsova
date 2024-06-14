@@ -1,0 +1,17 @@
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\bin\Debug\net8.0-windows\Calculator(expressions).exe
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\bin\Debug\net8.0-windows\Calculator(expressions).deps.json
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\bin\Debug\net8.0-windows\Calculator(expressions).runtimeconfig.json
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\bin\Debug\net8.0-windows\Calculator(expressions).dll
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\bin\Debug\net8.0-windows\Calculator(expressions).pdb
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\obj\Debug\net8.0-windows\Calculator_expressions_.Calculator.resources
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\obj\Debug\net8.0-windows\Calculator_expressions_.Properties.Resources.resources
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\obj\Debug\net8.0-windows\Calculator(expressions).csproj.GenerateResource.cache
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\obj\Debug\net8.0-windows\Calculator(expressions).GeneratedMSBuildEditorConfig.editorconfig
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\obj\Debug\net8.0-windows\Calculator(expressions).AssemblyInfoInputs.cache
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\obj\Debug\net8.0-windows\Calculator(expressions).AssemblyInfo.cs
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\obj\Debug\net8.0-windows\Calculator(expressions).csproj.CoreCompileInputs.cache
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\obj\Debug\net8.0-windows\Calculator(expressions).dll
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\obj\Debug\net8.0-windows\refint\Calculator(expressions).dll
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\obj\Debug\net8.0-windows\Calculator(expressions).pdb
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\obj\Debug\net8.0-windows\Calculator(expressions).genruntimeconfig.cache
+D:\Calcul\Calculator(expressions)\Calculator(expressions)\obj\Debug\net8.0-windows\ref\Calculator(expressions).dll
